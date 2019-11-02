@@ -1,8 +1,17 @@
-# myShell
-- myShell.c , myShell(executable)
+myShell
+======================
+exevcp, fork를 활용한 shell
 
-## 개발환경
-- linux, Ubuntu 16.04.4
+
+Repository구성
+------------------
+myShell.c , myShell(executable)
+
+
+개발, 테스트환경
+----------------
+linux, Ubuntu 16.04.4
+
 
 ## 기능 
 - 종료 (exit)
